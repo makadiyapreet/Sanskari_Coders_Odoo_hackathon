@@ -1,0 +1,19 @@
+{
+  "name": "express",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "makadiyapreet",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/makadiyapreet/Sanskari_Coders_Odoo_hackathon.git"
+  },
+  "bugs": {
+    "url": "https://github.com/makadiyapreet/Sanskari_Coders_Odoo_hackathon/issues"
+  },
+  "homepage": "https://github.com/makadiyapreet/Sanskari_Coders_Odoo_hackathon#readme",
+  "description": ""
+}
